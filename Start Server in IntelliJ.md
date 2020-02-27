@@ -1,5 +1,5 @@
 ## Motivation
-Needing start and manage a test server every time you changed something in your plugin is tedious - why not start the server right in your IDE?
+Needing to start and manage a test server every time you changed something in your plugin is tedious - why not start the server right in your IDE?
 
 **If you want to start a spigot server directly in your IntelliJ IDEA IDE, you just have to follow these steps:**
 
